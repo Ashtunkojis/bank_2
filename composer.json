@@ -1,0 +1,20 @@
+{
+    "name": "andrius/nd",
+    "description": "Testas",
+    "authors": [
+        {
+            "name": "Andrius K.",
+            "email": "andkubilius@gmail.com"
+        }
+    ],
+    "autoload": {
+
+        "psr-4": {
+
+            "App\\": "app/"
+
+        }
+
+    },
+    "require": {}
+}
